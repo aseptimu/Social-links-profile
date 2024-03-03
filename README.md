@@ -8,8 +8,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- [Solution](https://github.com/aseptimu/Recipe-page)
-- [Site](https://aseptimu.github.io/Recipe-page/)
+- [Solution](https://github.com/aseptimu/Social-links-profile)
+- [Site](https://aseptimu.github.io/Social-links-profile/)
 
 ## My process
 
